@@ -1,0 +1,9 @@
+__pycache__/*
+.vscode
+/game
+/interface
+/wtf
+/InterfaceSwitcher
+test.py
+*.dll
+setup.cfg
